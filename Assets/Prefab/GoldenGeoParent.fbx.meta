@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 6e6d6afee677a8c45aa004068089e301
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -325227755065080415
+    second: Sphere.027|Empty.003Action
+  - first:
+      74: 1362266055098941892
+    second: Sphere.027|Low Poly.002Action.001
+  - first:
+      74: -3319954549658426861
+    second: Sphere.027|Plane.021Action.001
+  - first:
+      74: -5463580876717987939
+    second: Sphere.027|Sphere.024Action.002
+  - first:
+      74: -2461846838988063440
+    second: Sphere.027|Sphere.025Action.001
+  - first:
+      74: 1138376958690246636
+    second: Sphere.027|Sphere.026Action.001
+  - first:
+      74: 9199887476714627381
+    second: Sphere.028|Empty.003Action
+  - first:
+      74: -6311648413977112894
+    second: Sphere.028|Low Poly.002Action.001
+  - first:
+      74: -5586401238581695373
+    second: Sphere.028|Plane.021Action.001
+  - first:
+      74: -5235469678902881020
+    second: Sphere.028|Sphere.024Action.002
+  - first:
+      74: -3787709885812256642
+    second: Sphere.028|Sphere.025Action.001
+  - first:
+      74: -7009029996793431837
+    second: Sphere.028|Sphere.026Action.001
+  - first:
+      74: 4517025248991463718
+    second: Low Poly.003|Empty.003Action
+  - first:
+      74: 7147139546386217663
+    second: Low Poly.003|Low Poly.002Action.001
+  - first:
+      74: -3620298059394519230
+    second: Low Poly.003|Plane.021Action.001
+  - first:
+      74: 6221752036844325465
+    second: Low Poly.003|Sphere.024Action.002
+  - first:
+      74: -3852386399413027299
+    second: Low Poly.003|Sphere.025Action.001
+  - first:
+      74: -5759314769019433189
+    second: Low Poly.003|Sphere.026Action.001
+  - first:
+      74: 434369687691343851
+    second: Plane.022|Empty.003Action
+  - first:
+      74: 4663885108320227613
+    second: Plane.022|Low Poly.002Action.001
+  - first:
+      74: 730337039322767654
+    second: Plane.022|Plane.021Action.001
+  - first:
+      74: -3444332236422869464
+    second: Plane.022|Sphere.024Action.002
+  - first:
+      74: -5197925513859675343
+    second: Plane.022|Sphere.025Action.001
+  - first:
+      74: -3640092585511566426
+    second: Plane.022|Sphere.026Action.001
+  - first:
+      74: 1847191278874685647
+    second: Sphere.029|Empty.003Action
+  - first:
+      74: 8587290382611567508
+    second: Sphere.029|Low Poly.002Action.001
+  - first:
+      74: 7294591975314104975
+    second: Sphere.029|Plane.021Action.001
+  - first:
+      74: 2022125379792649376
+    second: Sphere.029|Sphere.024Action.002
+  - first:
+      74: -6574910097945049461
+    second: Sphere.029|Sphere.025Action.001
+  - first:
+      74: 8914714973423771126
+    second: Sphere.029|Sphere.026Action.001
+  - first:
+      74: -2389257346446591410
+    second: Empty.003|Empty.003Action
+  - first:
+      74: 839180682711424608
+    second: Empty.003|Low Poly.002Action.001
+  - first:
+      74: -2855433634472012198
+    second: Empty.003|Plane.021Action.001
+  - first:
+      74: 4893883610558472996
+    second: Empty.003|Sphere.024Action.002
+  - first:
+      74: 107682469952647252
+    second: Empty.003|Sphere.025Action.001
+  - first:
+      74: -1848437969868983527
+    second: Empty.003|Sphere.026Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
